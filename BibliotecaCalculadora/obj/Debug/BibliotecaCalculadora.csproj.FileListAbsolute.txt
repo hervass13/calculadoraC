@@ -1,0 +1,6 @@
+C:\Users\sergi\source\repos\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.dll
+C:\Users\sergi\source\repos\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.pdb
+C:\Users\sergi\source\repos\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.dll
+C:\Users\sergi\source\repos\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.pdb
